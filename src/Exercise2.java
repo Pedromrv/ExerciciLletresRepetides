@@ -1,7 +1,9 @@
+//import java.util.ArrayList;
+//import java.util.List;
 
 public class Exercise2 {
 	public static void main(String[] args) {
-        // START FASE 1
+        //  FASE 1
 
         char[] MyName = {'P','e','d','r','o'};
 
@@ -11,6 +13,6 @@ public class Exercise2 {
             System.out.println("- " + c);
         }
         System.out.println();
-
+        
     }
 }
